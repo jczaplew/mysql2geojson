@@ -1,0 +1,23 @@
+{
+  "name": "mysql2geojson",
+  "version": "0.1.0",
+  "description": "Return MySQL query results as GeoJSON or TopoJSON",
+  "keywords": [
+    "MySQL",
+    "MariaDB",
+    "TopoJSON",
+    "GeoJSON"
+  ],
+  "main": "./mysql2geojson",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jczaplew/mysql2geojson.git"
+  },
+  "author": "John J Czaplewski",
+  "license": "CC0",
+  "dependencies": {
+    "async": ">=0.9.x",
+    "topojson": ">=1.6.x",
+    "wellknown": ">=0.2.x"
+  }
+}
