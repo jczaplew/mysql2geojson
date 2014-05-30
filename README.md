@@ -1,3 +1,5 @@
+## Deprecated - please use [dbgeo](https://github.com/jczaplew/dbgeo) instead.
+
 # MySQL2GeoJSON
 A Node.js module for returning MySQL query results as usable [GeoJSON](http://geojson.org/) or [TopoJSON](https://github.com/mbostock/topojson) objects. Ideally paired with [node-mysql](https://github.com/felixge/node-mysql).
 
